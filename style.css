@@ -12,6 +12,15 @@ table {
 
  }
 
+img {
+
+  width: 20%; 
+
+ height: auto;
+
+  border-radius: 50%;
+
+}
   caption {
 
    caption-side: bottom;
